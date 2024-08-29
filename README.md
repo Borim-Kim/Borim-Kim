@@ -36,7 +36,7 @@
 </p>
 
 <p>
-### BOJ / 저의 백준은요 
+### 💪 BOJ / 제가 하고 있는 공부입니다.
 <a href="https://solved.ac/borim"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=borim&theme=dark"/></a>
 </p>
 
