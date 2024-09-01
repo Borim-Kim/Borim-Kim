@@ -10,6 +10,9 @@
 <!-- borim's profile -->
 
 <h1 align="center">Hi 👋, I'm Borim-Kim</h1>
+## 💬 About me
+- 🌱 I’m 42seoul student
+- ❤️ I love to code and read
 <h3 align="center">새로운 변화와 환경을 두려워하지 않고 언제든 도전하는 사람입니다.</h3>
 
 <h3 align="left">Connect with me:</h3>
